@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/ababaug/blog-preview-card-main]
-- Live Site URL: [https://ababaug.github.io/blog-preview-card-main/]
+- Solution URL: [https://github.com/ababaug/expanding_cards]
+- Live Site URL: [https://ababaug.github.io/expanding_cards/]
 
 ## My process
 
